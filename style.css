@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 20vh;
+    font-size: 20px;
+    font-family: 'DRIPINK PERSONAL USE',sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
